@@ -1,0 +1,3 @@
+This will display a list of all your stashes, along with their messages and stash index numbers. 
+  Each stash will have a unique index number associated with it, 
+  which you can use to apply or drop specific stashes.
